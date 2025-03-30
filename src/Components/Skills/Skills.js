@@ -7,7 +7,7 @@ import "./Skills.scss";
 const Skills = () => {
   const programmingLang = [
     { skill: "JavaScript(ES6)", level: "Experienced" },
-    { skill: "Java", level: "Intermediate" },
+    { skill: "Java", level: "Beginner" },
   ];
 
   const webTechnologies = [
@@ -19,7 +19,7 @@ const Skills = () => {
 
   const frameworks = [
     { skill: "ReactJs", level: "Experienced" },
-    { skill: "Spring Boot", level: "Intermediate" },
+    // { skill: "Spring Boot", level: "Intermediate" },
   ];
 
   const stateManagement = [

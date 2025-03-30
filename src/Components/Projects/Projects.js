@@ -6,23 +6,23 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   const projectData = [
     {
-      image: process.env.PUBLIC_URL + "/images/todo.jpg",
-      title: "To-do list",
-      description: "HTML | CSS | JS | ReactJs",
-      githubLink: "https://github.com/arundhathi-t/To-do-app-react",
-    },
-    {
       image: process.env.PUBLIC_URL + "/images/portfolio.jpg",
       title: "My Portfolio",
       description: "ReactJs | MUI",
-      githubLink: "https://github.com/arundhathi-t/Portfolio-react",
+      githubLink: "https://github.com/abhishe3571/Portfolio-react",
     },
     {
-      image: process.env.PUBLIC_URL + "/images/lenskart.jpg",
-      title: "Lenskart",
-      description: "ReactJs | Bootstrap",
-      githubLink: "https://github.com/your-profile/lenskart",
+      image: process.env.PUBLIC_URL + "/images/monsters-rolodex.jpg",
+      title: "Monsters-Rolodex",
+      description: "HTML | CSS | JS | ReactJs",
+      githubLink: "https://github.com/abhishe3571/monsters-rolodex",
     },
+    // {
+    //   image: process.env.PUBLIC_URL + "/images/lenskart.jpg",
+    //   title: "Lenskart",
+    //   description: "ReactJs | Bootstrap",
+    //   githubLink: "https://github.com/your-profile/lenskart",
+    // },
   ];
 
   return (

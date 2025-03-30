@@ -34,9 +34,9 @@ const Contact = () => {
     e.preventDefault();
     setIsSubmitting(true);
 
-    const serviceID = "service_5ecrfnd";
-    const templateID = "template_d0n31h7";
-    const userID = "r9H2dxVfxfJVWm2jj";
+    const serviceID = "service_pxm6ldf";
+    const templateID = "template_08oz45o";
+    const userID = "7Q_zED7XJxu2iK4hv";
 
     emailjs.send(serviceID, templateID, formData, userID).then(
       (response) => {

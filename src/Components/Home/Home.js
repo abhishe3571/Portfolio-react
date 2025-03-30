@@ -51,7 +51,7 @@ const Home = () => {
               textAlign: { xs: "center", sm: "left" },
             }}
           >
-            Arundhathi T
+            Abhishek Singh
           </Typography>
           <Typography
             variant="h3"
