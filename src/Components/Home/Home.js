@@ -62,7 +62,7 @@ const Home = () => {
               textAlign: { xs: "center", sm: "left" },
             }}
           >
-            I'm a Frontend Developer
+                 Front-End Developer
           </Typography>
           <Typography
             variant="body1"
@@ -100,7 +100,7 @@ const Home = () => {
               }}
             >
               <a
-                href="/Abhishek Singh.pdf"
+                href="/Abhishek Profile.pdf"
                 download="Abhishek Singh Profile.pdf"
                 style={{ color: "white", textDecoration: "none", display: "block", width: "100%" }}
               >
